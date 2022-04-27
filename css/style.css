@@ -10,6 +10,7 @@ body{
     width: 100%;
     display: flex;
     background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .psw-container{
